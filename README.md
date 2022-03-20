@@ -64,5 +64,3 @@ yarn start
 # Autor
 
 Maria Vitória Magalhães
-
-https://www.linkedin.com/in/mariavitoriasilvamagalhaes
